@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AuthServEvt.cpp
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton2': unreferenced local variable
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton1': unreferenced local variable
+  MeetingServEvt.cpp
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton2': unreferenced local variable
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton1': unreferenced local variable
+  cppwin32main.cpp
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton2': unreferenced local variable
+c:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\MeetingServEvt.h(51): warning C4101: 'hButton1': unreferenced local variable
+cppwin32main.cpp(77): warning C4101: 'i': unreferenced local variable
+  Generating code
+  3 of 582 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cppwin32main.vcxproj -> C:\tmp\zoom-sdk-windows\sdk_demo4\cppwin32main\cppwin32main\..\..\..\bin\cppwin32main.exe
+  cppwin32main.vcxproj -> ..\..\..\bin\cppwin32main.pdb (Full PDB)
